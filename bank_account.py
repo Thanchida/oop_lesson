@@ -72,7 +72,7 @@ print(my_account_DB)
 my_account_DB.search_public("0003").withdraw(100)
 print(my_account_DB)
 # my_account_DB.search_public("0010").deposit(50)
-print(my_account_DB)
+# print(my_account_DB)
 
 # test delete method
 my_account_DB.delete_account("0003")
